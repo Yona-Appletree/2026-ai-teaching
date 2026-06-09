@@ -71,3 +71,7 @@ Plans are meant to be active while work is in progress, then archived after impl
 ## Notes For New Coders
 
 These skills work best when you ask the agent to show its work in files, not just in chat. A good planning file makes implementation easier. A good review file makes feedback less mysterious. A good completion log helps you remember what actually happened after the code is done.
+
+## License
+
+This repo is released into the public domain under The Unlicense. See `UNLICENSE` for the full public domain dedication and no-warranty terms.
